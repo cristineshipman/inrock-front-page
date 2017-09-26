@@ -1,0 +1,18 @@
+/*
+Theme Name: WrapIt Child Theme
+Author: Cristine Shipman
+Theme URI: http://themeforest.net/user/djmimi
+Author URI: http://themeforest.net/user/djmimi
+License: GPL 2.0
+Template: wrapit
+License URI: license.txt
+Description:  WrapIt - Packaging Company WordPress Theme
+Version: 1.0
+Tags: e-commerce
+*/
+
+@font-face{
+      font-family:"Bank Gothic W01 Medium";
+      src:url("fonts/d5c9f6f3-c676-4d64-a7ce-5d51cc7ddd40.eot?#iefix");
+      src:url("fonts/d5c9f6f3-c676-4d64-a7ce-5d51cc7ddd40.eot?#iefix") format("eot"),url("fonts/9a097577-0382-49c0-9e7d-d967c28909e0.woff2") format("woff2"),url("fonts/bec343c9-a262-4ca1-8540-912ccd59580d.woff") format("woff"),url("fonts/f7218b41-56c3-4ff8-b799-f06e7e0c061c.ttf") format("truetype"),url("fonts/12229708-f75b-43f6-85c2-4ef8e58d975d.svg#12229708-f75b-43f6-85c2-4ef8e58d975d") format("svg");
+  }
