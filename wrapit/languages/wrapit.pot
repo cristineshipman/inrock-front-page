@@ -1,0 +1,1750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WrapIt\n"
+"POT-Creation-Date: 2017-08-14 11:15+0100\n"
+"PO-Revision-Date: 2017-08-14 11:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: DJMiMi <djmimiweb@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp64\\www\\wrapit\\wp-content\\themes\\wrapit\n"
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/404.php:9
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/404.php:12
+msgid ""
+"Page you are looking for is no longer available. Use search form bellow to find what you are "
+"looking for."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:6
+msgid "No Comments"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:6
+msgid "1 Comment"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:6
+msgid "% Comments"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:46
+msgid "Leave Comment"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:54
+msgid "Send Comment"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:58
+msgid "Your Name"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:62
+msgid "Your Email"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:67
+msgid "Your Comment"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/comments.php:70
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/footer.php:23
+msgid "Previous Project"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/footer.php:37
+msgid "All Projects"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/footer.php:48
+msgid "Next Project"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:22
+msgid "Redux Framework"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:31
+msgid "User Avatar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:40
+msgid "Smeta"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:50
+msgid "King Composer"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:59
+msgid "WrapIt CPT"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:103
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:109
+msgid "Appears on the right side of the blog single page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:113
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:119
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:123
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:129
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:139
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:149
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:159
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:133
+msgid "Bottom Sidebar 1"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:143
+msgid "Bottom Sidebar 2"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:153
+msgid "Bottom Sidebar 3"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:163
+msgid "Shop Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:169
+msgid "Appears on the left side of the shop page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:176
+msgid "Mega Menu Sidebar "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:182
+msgid "This will be shown as the dropdown menu in the navigation."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:191
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:635
+msgid "Custom Sidebar "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:197
+msgid "This will be shown as right or left sidebar."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:308
+msgid "Main Navigation"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:335
+msgid "WrapIt - 471px"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:336
+msgid "WrapIt - 653px"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:494
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:591
+msgid "Images"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:500
+msgid "Slide Background Image"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:505
+msgid "Slide Text"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:510
+msgid "Slide Subtext"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:515
+msgid "Slide Button Text"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:520
+msgid "Slide Button Link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:529
+msgid "Slides"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:537
+msgid "Excerpt"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:542
+msgid "Custom Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:548
+msgid "Show Featured Image On Single"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:551
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:87
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:112
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:384
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:503
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:552
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:88
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:113
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:385
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:504
+msgid "No"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:558
+msgid "Page Excerpt"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:566
+msgid "Details"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:573
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:142
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:318
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:534
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:579
+msgid "Name"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:584
+msgid "Value"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:599
+msgid "Project Description"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:607
+msgid "Breadcrumbs Image"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:613
+msgid "Breadcrumbs"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:631
+msgid "Page Default Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:650
+msgid "Shortcode"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1018
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1024
+msgid "You have successfully subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1029
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1033
+msgid "WrapIt CPT is not installed."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1037
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1099
+msgid "@"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1107
+msgid "Reply"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1125
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1164
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1165
+msgid "Password:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1307
+msgid "Home"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1315
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:64
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/title.php:31
+msgid "Blog"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1334
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/title.php:47
+msgid "404"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1337
+msgid "Search by tag: "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1340
+msgid "Posts by"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1343
+msgid "Archive for:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/functions.php:1346
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/header.php:83
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/header.php:110
+msgid "Type search term and hit enter..."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:393
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:912
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2618
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:394
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and renaming did "
+"not work."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:1019
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to the "
+"WordPress guidelines."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not packaged in "
+"a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3594
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3594
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please "
+"be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/font-icons.php:5
+msgid "No Icon"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/kingcomposer/wi_blogs.php:60
+msgid "Continue reading..."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/kingcomposer/wi_image_box.php:15
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/kingcomposer/wi_side_image_box.php:18
+msgid "Read More"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/kingcomposer/wi_pages.php:19
+msgid "Continue Reading"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:52
+msgid "Blogs"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:58
+msgid "Number Of Blogs"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:60
+msgid "Input number of blogs to display. (-1 to display all)"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:73
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:162
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:184
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:271
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:324
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:470
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:476
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:511
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:551
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:583
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:527
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:125
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:199
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:266
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:349
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:403
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:449
+msgid "Title"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:78
+msgid "Visible Items"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:80
+msgid ""
+"Input number of blogs which are visible. If slider is set to no then this is used to define "
+"number of items in the row and in this case possible values are 1, 2, 3, 4, 6, 12"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:84
+msgid "Use Slider"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:90
+msgid "Display posts in slider or in grid."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:100
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:112
+msgid "Clients"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:106
+msgid "Rotate Speed"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:108
+msgid "Input clients rotate speed in miliseconds or leave it empty to disable."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:113
+msgid "Add new slide"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:118
+msgid "Client Logo"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:123
+msgid "Client URL"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:136
+msgid "Count"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:147
+msgid "Icon Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:152
+msgid "Target Number"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:157
+msgid "Target Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:167
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:189
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:329
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:481
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:516
+msgid "Title Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:178
+msgid "Call To Action"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:194
+msgid "Button Text"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:199
+msgid "Button Link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:210
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:297
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/search.php:51
+msgid "Pages"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:216
+msgid "Page"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:225
+msgid "Box Style"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:228
+msgid "Top Media"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:229
+msgid "Side Media"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:234
+msgid "Excerpt Length"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:236
+msgid "Input number of chars for the excerpt or leave empty to display it all"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:246
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:252
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:494
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/search.php:77
+msgid "Projects"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:261
+msgid "Number Of Projects"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:263
+msgid "Input number of items instead of comma separated list. ( -1 to display all )"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:267
+msgid "Order By"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:270
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:526
+msgid "Date"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:272
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:528
+msgid "Random"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:273
+msgid "Respect Projects IDs"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:278
+msgid "Style"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:281
+msgid "Caption On Hover"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:282
+msgid "Side Caption"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:287
+msgid "Order"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:290
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:539
+msgid "Ascending"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:291
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:538
+msgid "Descending"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:296
+msgid "Projects In Row"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:312
+msgid "Service"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:334
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:556
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:588
+msgid "Text"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:339
+msgid "Text Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:350
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:356
+msgid "Slider"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:371
+msgid "Team Member"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:377
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:425
+msgid "Team Avatar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:382
+msgid "Facebook Link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:387
+msgid "Twitter Link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:392
+msgid "Google Link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:397
+msgid "Team Member Name"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:402
+msgid "Team Member Position"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:407
+msgid "Team Member Description"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:418
+msgid "Testimonials"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:424
+msgid "Add New Testimonial"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:430
+msgid "Select Avatar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:435
+msgid "Testimonial Text"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:440
+msgid "Testimonial Name"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:445
+msgid "Testimonial Person Subtitle"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:450
+msgid "Testimonial Grade"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:486
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:521
+msgid "Heading"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:505
+msgid "Title Icon"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:545
+msgid "Image Box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:561
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:593
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:409
+msgid "Link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:566
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:598
+msgid "Background Image"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:577
+msgid "Side Image Box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:603
+msgid "Image Position"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:606
+msgid "Left"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/shortcodes.php:607
+msgid "Right"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:76
+msgid "Overall"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:78
+msgid "This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:85
+msgid "Site Logo"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:86
+msgid "Upload site logo"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:92
+msgid "Home Page Slider"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:93
+msgid "Input shortcode of the slider if you are not using Home Page as page template"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:100
+msgid "LTR"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:101
+msgid "RTL"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:103
+msgid "Choose Site Content Direction"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:104
+msgid ""
+"Choose overall website text direction which can be RTL (right to left) or LTR (left to "
+"right)."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:115
+msgid "Sticky Menu"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:116
+msgid "Enable or disable sticky menu"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:124
+msgid "Bottom Navigation"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:125
+msgid "Side Navigation"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:126
+msgid "Center Navigation"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:128
+msgid "Header Style"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:129
+msgid "Select style of the header"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:137
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:138
+msgid "Here you can add custom CSS."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:149
+msgid "Top Bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:152
+msgid "Setup top bar of the site."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:158
+msgid "Message"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:159
+msgid "Input message which will be dispalyed on the right side of the top bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:165
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:272
+msgid "Facebook"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:166
+msgid ""
+"Input link to the facebook page which will be displayed on the right side of the top bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:171
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:277
+msgid "Twitter"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:172
+msgid "Input link to the twitter page which will be displayed on the right side of the top bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:177
+msgid "Google"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:178
+msgid "Input link to the google page which will be displayed on the right side of the top bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:183
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:302
+msgid "Instagram"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:184
+msgid ""
+"Input link to the instagram page which will be displayed on the right side of the top bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:190
+msgid ""
+"Input link to the linkedin page which will be displayed on the right side of the top bar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:201
+msgid "Header"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:204
+msgid "Setup header of the site."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:211
+msgid "Icon 1"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:212
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:232
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:252
+msgid "Select icon for the header icon box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:217
+msgid "Icon 1 Title"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:218
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:238
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:258
+msgid "Input title for the icon box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:223
+msgid "Icon 1 Subtitle"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:224
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:244
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:264
+msgid "Input subtitle for the icon box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:231
+msgid "Icon 2"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:237
+msgid "Icon 2 Title"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:243
+msgid "Icon 2 Subtitle"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:251
+msgid "Icon 3"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:257
+msgid "Icon 3 Title"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:263
+msgid "Icon 3 Subtitle"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:275
+msgid "Shop"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:277
+msgid "Set up shop options."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:283
+msgid "Products Per Page"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:284
+msgid "Input number of products to show per page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:299
+msgid "Set up page options."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:304
+msgid "Custom Page Sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:305
+msgid "Input number of custom sidebars."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:312
+msgid "Title Side"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:313
+msgid "Bellow Title"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:315
+msgid "Breadcrumbs Style"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:316
+msgid "Select type of breadcrumbs."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:327
+msgid "Subscription"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:329
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:335
+msgid "API Key"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:336
+msgid "Type your mail chimp api key."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:342
+msgid "List ID"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:343
+msgid "Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:352
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:354
+msgid "Set up the looks."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:359
+msgid "Header Background Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:360
+msgid "Select background color of the header"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:367
+msgid "Header Box Icon Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:368
+msgid "Select color of the icon of header box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:375
+msgid "Header Box Title Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:376
+msgid "Select color of the title of header box"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:387
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:388
+msgid "Show or hide breadcrumbs on inner pages"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:394
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:395
+msgid "Upload image which will be set as background of the breadcrumbs section"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:400
+msgid "Breadcrumbs Font Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:401
+msgid "Select breadcrumbs font color."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:408
+msgid "Main Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:409
+msgid "Select main color of the theme."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:416
+msgid "Main Font Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:417
+msgid "Select font color of the elements which have main color as their background."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:424
+msgid "Text Font"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:425
+msgid "Select font for the regular text."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:432
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:433
+msgid "Select font for the navigation text."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:440
+msgid "Title Font"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:441
+msgid "Select font for the title text."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:448
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:449
+msgid "Select background color of the top bar."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:456
+msgid "Top Bar Font Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:457
+msgid "Select font color of the top bar."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:464
+msgid "Top Bar Icon Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:465
+msgid "Select font color of the icons in top bar."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:472
+msgid "Copyrights Background Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:473
+msgid "Select background color of the copyrights."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:480
+msgid "Copyrights Font Color"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:481
+msgid "Select font color of the copyrights."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:496
+msgid "Set up project options."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:506
+msgid "Show Next/Prev Links"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:507
+msgid "Show or hide next/prev link on project single page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:513
+msgid "Project Single Slug"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:514
+msgid ""
+"Input slug which you want to use for projects. You must resave permalinks in Settings-"
+">Permalinks after the change"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:519
+msgid "Project Category Slug"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:520
+msgid ""
+"Input slug which you want to use for projects category. You must resave permalinks in "
+"Settings->Permalinks after the change"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:530
+msgid "Order Projects By"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:531
+msgid "Select by which field to order projects on All projects page"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:541
+msgid "Order Projects"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:542
+msgid "Select how to order projects"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:554
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:556
+msgid "Contact page settings."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:561
+msgid "Email"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:562
+msgid "Input email where the messages should arive."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:567
+msgid "Markers"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:568
+msgid "Input markers for contact page in form LATITUDE,LONGITUDE."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:573
+msgid "Marker Icon"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:574
+msgid "Select marker icon for the contact page."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:579
+msgid "Markers Max Zoom"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:580
+msgid "Markers max zoom 0 - 19."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:585
+msgid "Google API Key"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:586
+msgid "Input google API key"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:597
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:604
+msgid "Copyrights"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:599
+msgid "Copyrights settings."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:605
+msgid "Input copyrights text."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:634
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/theme-options.php:635
+msgid "WrapIt WP"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/title.php:50
+msgid "Search Results"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:120
+msgid "WrapIt Recent Posts"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:121
+msgid "Display recent posts"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:131
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:205
+msgid "Number"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:172
+msgid "0"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:172
+msgid "1"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:172
+msgid "%"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:194
+msgid "WrapIt Recent Comments"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:195
+msgid "Display recent comments"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:244
+msgid "ago"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:261
+msgid "WrapIt Social Follow"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:262
+msgid "Adds list of the social icons"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:282
+msgid "Google+"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:287
+msgid "Linkedin"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:292
+msgid "Pinterest"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:297
+msgid "YouTube"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:307
+msgid "Skype"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:344
+msgid "WrapIt Subscribe"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:345
+msgid "Adds subscribe form in the sidebar"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:366
+msgid "Input email here..."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:385
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:398
+msgid "WrapIt Image Banner"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:399
+msgid "Add image with link"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:414
+msgid "Image ID"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:444
+msgid "WrapIt File Download"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:445
+msgid "Add file to download from the site"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:455
+msgid "Link or attachment ID 1"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:460
+msgid "Text 1"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:465
+msgid "Link or attachment ID  2"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:470
+msgid "Text 2"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:475
+msgid "Link or attachment ID  3"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:480
+msgid "Text 3"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:485
+msgid "Link or attachment ID  4"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:490
+msgid "Text 4"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:495
+msgid "Link or attachment ID  5"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/includes/widgets.php:500
+msgid "Text 5"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/index.php:68
+msgid "Continue reading"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/index.php:81
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/search.php:95
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/index.php:84
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/search.php:98
+msgid "Sorry but we could not find anything which resembles you search criteria. Try again."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/page-tpl_contact.php:31
+msgid "Your name"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/page-tpl_contact.php:35
+msgid "Your email"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/page-tpl_contact.php:39
+msgid "Message subject"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/page-tpl_contact.php:45
+msgid "Your message"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/page-tpl_contact.php:54
+msgid "Send Message"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/page-tpl_projects.php:16
+msgid "All"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/search.php:64
+msgid "Posts"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/searchform.php:3
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/woocommerce/product-searchform.php:26
+msgid "Search for..."
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/single.php:16
+msgid "&raquo;"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/single.php:17
+msgid "&laquo;"
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/single.php:37
+msgid "Written by "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/single.php:39
+msgid " on "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/single.php:41
+msgid " in "
+msgstr ""
+
+#: C:\wamp64\www\wrapit\wp-content\themes\wrapit/single.php:55
+msgid "Tags"
+msgstr ""

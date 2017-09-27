@@ -1,0 +1,239 @@
+.rtl .pull-right{
+	float: left!important;
+}
+
+.rtl .pull-left{
+	float: right!important;
+}
+
+.rtl .nav.navbar-nav{
+	padding-right: 0px;
+}
+
+.rtl .nav.navbar-nav li{
+	float: right;
+}
+
+.rtl .nav.navbar-nav > li:last-child{
+	float: left;
+}
+
+.rtl #navigation .nav.navbar-nav > li:last-child a{
+	border-radius: 3px 0px 0px 0px;
+}
+
+.rtl #navigation .nav.navbar-nav > li:first-child a{
+	border-radius: 0px 3px 0px 0px;	
+}
+
+@media only screen and (min-width: 769px){
+	.rtl .dropdown-menu li a:after{
+		width: 20px;
+		right: 0px;
+	}
+}
+
+.rtl .ind-slide-caption{
+	right: 0px;
+	left: auto;
+}
+
+.rtl .ind-cta a.btn{
+	margin-right: auto;
+	margin-left: 0px;
+}
+
+@media only screen and (min-width: 769px){
+	.rtl .fixed-responsive-nav #navigation .nav.navbar-nav > li:first-child a{
+		padding-right: 20px;
+	}	
+	.rtl .fixed-responsive-nav #navigation .nav.navbar-nav > li:nth-last-child(2) a{
+		padding-left: 0px;
+	}
+}
+
+.rtl .team-member h5:after{
+	right: 0px;
+	left: auto;
+}
+
+.rtl .alignnone{
+	margin: 5px 0px 0px 20px;
+}
+
+.rtl header .header-boxes i{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+.rtl header .header-boxes li:first-child{
+	padding-left: 0px;
+}
+
+@media only screen and (max-width: 769px){
+	.rtl .nav.navbar-nav li{
+		float: none;
+	}
+
+	.rtl #navigation .navbar-nav li a{
+		text-align: right;
+	}
+
+	.rtl .dropdown-toggle i{
+		float: left;
+	}
+}
+
+.rtl #navigation .dropdown-menu{
+	right: 0px;
+	left: auto;
+}
+
+.rtl .wrapit-form .btn{
+	right: auto;
+	left: 0px;
+}
+
+.rtl .widget_categories li a, 
+.rtl .widget_product_categories li a, 
+.rtl .widget_layered_nav li a, 
+.rtl .widget_archive li a{
+	float: right;
+}
+
+.rtl .widget_categories li, 
+.rtl .widget_archive li{
+	text-align: left;
+}
+
+.rtl .blog-title:after{
+	right: 0px;
+	left: auto;
+}
+
+.rtl .widget_widget_file_download i{
+	margin-right: 0px;
+	margin-left: 10px;
+	border-radius: 3px 0px 0px 3px;
+}
+
+.rtl .widget_widget_file_download i{
+	line-height: 34px;
+}
+
+.rtl .project-details{
+	padding-right: 0px;
+}
+
+.rtl .project-details li strong{
+	float: left;
+}
+
+.rtl .project-details li span{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+.rtl .styled-select:after{
+	right: auto;
+	left: 0px;
+}
+
+.rtl .widget_layered_nav span, 
+.rtl .widget_product_categories span{
+	float: left;
+}
+
+.rtl .woocommerce ul.cart_list li img, 
+.rtl .woocommerce ul.product_list_widget li img{
+	float: left;
+}
+
+.rtl.woocommerce .star-rating span{
+	right: 0px;
+}
+
+.rtl.woocommerce div.product form.cart div.quantity,
+.rtl.woocommerce div.product form.cart .button{
+	float: right;
+}
+
+.rtl.woocommerce div.product form.cart .button{
+	margin-right: 2px;
+}
+
+.rtl .woocommerce #reviews #comments ol.commentlist{
+	padding-right: 0px;
+}
+
+.rtl a[href="#tab-reviews"]{
+	direction: ltr;
+}
+
+.rtl .comment-avatar{
+	float: right;
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+.rtl.woocommerce .widget_shopping_cart .total .amount, .woocommerce.widget_shopping_cart .total .amount{
+	float: left;
+}
+
+.rtl .woocommerce.widget_shopping_cart .buttons a:first-child{
+	text-align: right;
+}
+
+.rtl .woocommerce.widget_shopping_cart .buttons a:last-child{
+	text-align: left;
+}
+
+.rtl .page-item.side-media .page-media{
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+.rtl .owl-dots{
+	text-align: right;
+}
+
+.rtl .service-icon-wrap{
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+.rtl .ind-title-icon i{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+.rtl .counter-wrap i{
+	right: auto;
+	left: 0px;
+    transform: translate(-40%,-50%);
+    -ms-transform: translate(-40%,-50%);
+    -webkit-transform: translate(-40%,-50%);
+    -moz-transform: translate(-40%,-50%);
+}
+
+.rtl .counter-caption.has-icon{
+	text-align: right;
+}
+
+.rtl .widget_widget_file_download i:after{
+	left: auto;
+	right: 0px;
+}
+.rtl .next-prev .row > div:first-child{
+	text-align: left;
+}
+
+.rtl .widget_wrapit_custom_posts .flex-right{
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+.rtl .grey i{
+	margin-right: 0px;
+	margin-left: 5px;
+}

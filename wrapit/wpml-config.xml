@@ -1,0 +1,75 @@
+<wpml-config>
+  <custom-fields>
+    <custom-field action="translate">slides</custom-field>
+    <custom-field action="translate">slide_image</custom-field>
+    <custom-field action="translate">slide_text</custom-field>
+    <custom-field action="translate">slide_subtext</custom-field>
+    <custom-field action="translate">slide_button_text</custom-field>
+    <custom-field action="translate">slide_button_link</custom-field>
+    <custom-field action="translate">page_excerpt</custom-field>
+    <custom-field action="translate">page_custom_sidebar</custom-field>
+    <custom-field action="translate">page_show_featured</custom-field>
+    <custom-field action="translate">project_details</custom-field>
+    <custom-field action="translate">project_details_icon</custom-field>
+    <custom-field action="translate">project_details_name</custom-field>
+    <custom-field action="translate">project_details_value</custom-field>
+    <custom-field action="translate">project_images</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="wrapit_options">
+      <key name="site_logo"/>
+      <key name="home_slider"/>
+      <key name="direction"/>
+      <key name="enable_sticky"/>
+      <key name="header_style"/>
+      <key name="custom_css"/>
+      <key name="top_bar_message"/>
+      <key name="top_bar_facebook"/>
+      <key name="top_bar_twitter"/>
+      <key name="top_bar_google"/>
+      <key name="top_bar_instagram"/>
+      <key name="top_bar_linkedin"/>
+      <key name="header_icon_1"/>
+      <key name="header_icon_1_title"/>
+      <key name="header_icon_1_subtitle"/>
+      <key name="header_icon_2"/>
+      <key name="header_icon_2_title"/>
+      <key name="header_icon_2_subtitle"/>
+      <key name="header_icon_3"/>
+      <key name="header_icon_3_title"/>
+      <key name="header_icon_3_subtitle"/>
+      <key name="products_per_page"/>
+      <key name="page_custom_sidebars"/>
+      <key name="page_breadcrumbs"/>
+      <key name="mail_chimp_api"/>
+      <key name="mail_chimp_list_id"/>
+      <key name="header_bg_color"/>
+      <key name="header_bg_image"/>
+      <key name="header_box_icon_color"/>
+      <key name="header_box_text_color"/>
+      <key name="show_breadcrumbs"/>
+      <key name="breadcrumbs_image"/>
+      <key name="breadcrumbs_font_color"/>
+      <key name="main_color"/>
+      <key name="main_font_color"/>
+      <key name="text_font"/>
+      <key name="title_font"/>
+      <key name="navigation_font"/>
+      <key name="top_bar_bg_color"/>
+      <key name="top_bar_icon_color"/>
+      <key name="top_bar_font_color"/>
+      <key name="copyrights_bg_color"/>
+      <key name="copyrights_font_color"/>
+      <key name="project_next_prev"/>
+      <key name="project_orderby"/>
+      <key name="project_order"/>
+      <key name="project_slug"/>
+      <key name="contact_form_email"/>
+      <key name="markers"/>
+      <key name="marker_icon"/>
+      <key name="markers_max_zoom"/>
+      <key name="google_api_key"/>
+      <key name="copyrights"/>
+    </key>
+  </admin-texts>
+</wpml-config>
